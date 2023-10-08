@@ -1,0 +1,70 @@
+Watching for file changes with StatReloader
+E:\ucheba\semestr_2\django\Lec\lecproject\lecproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+посещение страницы index в: 2023-10-08 21:39:37.256189
+"GET / HTTP/1.1" 200 1608
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2442
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+посещение страницы index в: 2023-10-08 21:45:58.969540
+"GET / HTTP/1.1" 200 1608
+"GET /homework2 HTTP/1.1" 301 0
+"GET /homework2/ HTTP/1.1" 200 1092
+посещение страницы index в: 2023-10-08 21:46:57.741128
+"GET / HTTP/1.1" 200 1608
+Not Found: /user_sorted/'id'/'days
+"GET /user_sorted/'id'/'days HTTP/1.1" 404 2630
+E:\ucheba\semestr_2\django\Lec\lecproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+посещение страницы index в: 2023-10-08 21:51:01.695172
+"GET / HTTP/1.1" 200 1814
+Not Found: /homework3
+"GET /homework3 HTTP/1.1" 404 2546
+E:\ucheba\semestr_2\django\Lec\lecproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\ucheba\semestr_2\django\Lec\lecproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+посещение страницы index в: 2023-10-08 21:51:57.704389
+"GET / HTTP/1.1" 200 1719
+"GET /homework2/ HTTP/1.1" 200 1092
+E:\ucheba\semestr_2\django\Lec\lecproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /myapp2/index.html
+"GET /myapp2/index.html HTTP/1.1" 404 2570
+Not Found: /myapp2
+"GET /myapp2 HTTP/1.1" 404 2537
+посещение страницы index в: 2023-10-08 22:06:53.384159
+"GET / HTTP/1.1" 200 1719
+E:\ucheba\semestr_2\django\Lec\lecproject\lecproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+E:\ucheba\semestr_2\django\Lec\lecproject\lecproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\ucheba\semestr_2\django\Lec\lecproject\lecproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\ucheba\semestr_2\django\Lec\lecproject\lecproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\ucheba\semestr_2\django\Lec\lecproject\lecproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+посещение страницы index в: 2023-10-08 22:19:05.635041
+"GET / HTTP/1.1" 200 1719
+"GET /homework2/ HTTP/1.1" 200 1092
+"GET /homework2/index/ HTTP/1.1" 200 1092
+Not Found: /homework2/basket
+"GET /homework2/basket HTTP/1.1" 404 3234
+Not Found: /homework2/myapp2/index.html
+"GET /homework2/myapp2/index.html HTTP/1.1" 404 3267
+Watching for file changes with StatReloader
+"GET /homework2/ HTTP/1.1" 200 1092
+посещение страницы index в: 2023-10-08 22:33:48.148330
+"GET / HTTP/1.1" 200 1719
+посещение страницы about в: 2023-10-08 22:33:59.266654
+"GET /about/ HTTP/1.1" 200 1499
+"GET /homework2/ HTTP/1.1" 200 1092
+"GET /homework2/ HTTP/1.1" 200 1092
+E:\ucheba\semestr_2\django\Lec\lecproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
