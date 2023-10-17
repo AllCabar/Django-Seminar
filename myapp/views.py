@@ -69,7 +69,9 @@ def index(request):
             <p>Свяжитесь со мной: allcabar@mail.ru | +79835000650</p>
         </footer>
         
-        <p><a href="/homework3"> домашнее задание к семинару 3 </a></p>
+        <p><a href="/homework2"> домашнее задание к семинару 3 </a></p>
+        <p><a href="/homework4"> домашнее задание к семинару 5 </a></p>
+    
 
     
     </body>

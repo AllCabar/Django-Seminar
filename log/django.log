@@ -68,3 +68,95 @@ Watching for file changes with StatReloader
 "GET /homework2/ HTTP/1.1" 200 1092
 E:\ucheba\semestr_2\django\Lec\lecproject\myapp\views.py changed, reloading.
 Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\ucheba\semestr_2\django\Lec\lecproject\lecproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+E:\ucheba\semestr_2\django\Lec\lecproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+посещение страницы index в: 2023-10-09 17:12:33.255224
+"GET / HTTP/1.1" 200 1724
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2552
+"GET /homework2/ HTTP/1.1" 200 1092
+E:\ucheba\semestr_2\django\Lec\lecproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+посещение страницы index в: 2023-10-09 17:15:29.235749
+"GET / HTTP/1.1" 200 1724
+Not Found: /homework3
+"GET /homework3 HTTP/1.1" 404 2546
+E:\ucheba\semestr_2\django\Lec\lecproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /homework3
+"GET /homework3 HTTP/1.1" 404 2546
+E:\ucheba\semestr_2\django\Lec\lecproject\lecproject\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /homework3 HTTP/1.1" 301 0
+"GET /homework3/ HTTP/1.1" 200 1092
+Watching for file changes with StatReloader
+"GET /homework3/ HTTP/1.1" 200 1092
+E:\ucheba\semestr_2\django\Lec\lecproject\lecproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+посещение страницы index в: 2023-10-15 22:29:03.185805
+"GET / HTTP/1.1" 200 1724
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2790
+Internal Server Error: /homework4/
+Traceback (most recent call last):
+  File "C:\Users\Alik\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Users\Alik\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\ucheba\semestr_2\django\Lec\lecproject\myapp3\views.py", line 9, in index
+    return render(request, 'myapp3/base1.html')
+  File "C:\Users\Alik\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Alik\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Alik\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp3/base1.html
+"GET /homework4/ HTTP/1.1" 500 82111
+Internal Server Error: /upload/
+Traceback (most recent call last):
+  File "C:\Users\Alik\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Users\Alik\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\ucheba\semestr_2\django\Lec\lecproject\myapp3\views.py", line 50, in upload_image
+    return render(request, 'myapp3/upload_image.html', {'form': form})
+  File "C:\Users\Alik\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Alik\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Alik\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp3/upload_image.html
+"GET /upload/ HTTP/1.1" 500 81778
+C:\Users\Alik\AppData\Local\Programs\Python\Python310\Lib\site-packages\django\template\loader.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+посещение страницы index в: 2023-10-17 21:41:00.189526
+"GET / HTTP/1.1" 200 1820
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2900
+"GET /homework4 HTTP/1.1" 301 0
+Internal Server Error: /homework4/
+Traceback (most recent call last):
+  File "C:\Users\Alik\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Users\Alik\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\ucheba\semestr_2\django\Lec\lecproject\myapp3\views.py", line 9, in index
+    return render(request, 'myapp3/base1.html')
+  File "C:\Users\Alik\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Alik\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Alik\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp3/base1.html
+"GET /homework4/ HTTP/1.1" 500 82676
