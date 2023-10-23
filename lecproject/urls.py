@@ -24,5 +24,7 @@ urlpatterns = [
     path('homework4/', include('myapp3.urls')),
     path('upload/', upload_image, name='upload_image'),
     path('homework5/', include('myapp5.urls')),
+  #  path('__debug__/', include('debug_toolbar.urls')),
+    path('homework6/', include('myapp6.urls')),
 
 ]

@@ -160,3 +160,4 @@ Traceback (most recent call last):
     raise TemplateDoesNotExist(template_name, chain=chain)
 django.template.exceptions.TemplateDoesNotExist: myapp3/base1.html
 "GET /homework4/ HTTP/1.1" 500 82676
+Watching for file changes with StatReloader
